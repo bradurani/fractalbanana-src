@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://bradurani.github.io//github
+url: http://bradurani.github.io/fractalbanana
 title: Fractal Banana
 subtitle: A blog about software by Brad Urani.
 author: Brad Urani
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: bradurani
+twitter_user: @bradurani
 twitter_tweet_button: true
 
 # Google +1
@@ -78,7 +78,7 @@ google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user: bradurani
+googleplus_user: +bradurani
 googleplus_hidden: false
 
 # Pinboard
