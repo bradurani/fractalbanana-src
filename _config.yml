@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://bradurani.github.io/fractalbanana
+url: http://fractalbanana.com
 title: Fractal Banana
 subtitle: A blog about software by Brad Urani.
 author: Brad Urani
@@ -26,7 +26,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /fractalbanana
+root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 
 # Github repositories
 github_user: bradurani
-github_repo_count: 5
+github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
