@@ -1,0 +1,27 @@
+---
+layout: post
+title: "The Curse of Choice in Programming Languages"
+date: 2013-11-30 09:05:33 -0600
+comments: true
+categories: [languages, teaching] 
+---
+
+There are too many programming languages. What I mean to say is there are too many *good* programming languages. Behavior psychologists have long warned about the curse of choice - the theory that too much choice causes anxiety and negatively affects decision making. We in the software world suffer from a severe form of that. We're literally drowning in options, all of which are good.
+
+Do you remember that myth from the late nineties about the great technology convergence where all software development converges onto one platform built with one programming language? Java was supposed to be the write once run anywhere language and we were all supposed to use it for everything. The first mobile apps were Java apps running on those old Nokia phones with the little green and black screens. Client-side web was supposed to move entirely to Java applets. Even software embedded into devices - like copy machines - was supposed to be written in Java, because we all know that managed memory code is great for copy machines. I can picture it now: the garbage collector kicks in while your copies are being made and they all come out smeared.
+
+Now the development landscape is more fragmented than ever and becoming more so. And that's a problem because it makes hiring and training significantly harder. The proliferation of new languages and frameworks is watering down the talent pool for the most popular languages, and among the new languages there seems to be no clear winner. Myth busted.
+<!--more-->
+Speaking of myths, there’s another one I’d like to dispel. It’s the one that says a good developer can pick up a new language over a weekend. Bologna. A good developer can pick up a new language *syntax* in a weekend, but learning the framework, conventions, tools, ecosystem, quirks and gotchas takes at least 6 months. That doesn’t mean a good developer can’t be productive after a few weeks, but being productive isn’t the same as language mastery and for some tasks, there's no substitute for language mastery.
+
+So here’s where we are for web: Ruby on Rails is great (possibly the best) but hardly cult-worthy. ASP.Net MVC (~~which Rails plagiarized~~ which plagiarized Rails) is great. Yes it’s expensive, but the easy install and inter-op of the whole .Net environment saves time and money. Java is great and getting better, and has the biggest and best ecosystem of compatible libraries. The addition of lambdas in Java 8 will make it as good as C#. NodeJS is great, and really fast, despite the fact that JavaScript is flawed. The good front-end developers love it and that makes it appealing because you want to hire them. Python and Django are great, and most recent college grads have experience with Python. PHP is not great, but has some great frameworks, a mature toolset and a large pool of experienced developers from which to draw talent. Wordpress and Magento make it a legitimate choice, especially for marketing agencies. 
+
+As if that weren’t enough, Scala, Clojure, Haskell, Go and Rust are all outstanding. Unfortunately, because they're outstanding people are going to start using them making the landscape even more divergent. Already sophisticated companies are adopting these new languages just because they're better than the old ones. Imagine that! Oh yeah, and why write plain vanilla JavaScript when you can use CoffeeScript, ClojureScript, TypeScript or Dart? Just shoot me now.
+
+Ok, ok I take it back. I’m all for the advancement of computer science and hope that languages continue to evolve and get better. I'm teaching myself Scala purely for the joy of learning it. But don’t be fooled into thinking there’s not a downside to all of this. What do you do when that senior .Net architect role you’ve had open for 6 months needs to be filled and the best applicants are only experienced in PHP? What do you do when the start-up you’ve built using NodeJS can’t find talent because you live in a town where it has yet to make a dent in Java? When you teach a class to train aspiring developers so they can get their first jobs (as I’m doing for [LaunchCode](http://launchcodestl.com)), what language do you teach them? (I went with .Net because that's what most of the job openings in St. Louis are for, but I’m having second thoughts).
+
+The steady march of progress in programming languages is inevitable and ultimately beneficial but I shudder when I think about the hiring situation 5 years from now when more languages and frameworks have proven their merit and made the splintering worse. If you have to pick a language for your project, my advice is this: consider the hiring situation before you choose something new and cutting edge. Geography matters too. St. Louis, for instance, has a strong Java community but only a handful of good Ruby folks whereas on the West Coast Ruby is probably the best choice. If you’re just learning to program, well, good luck. Pick the most popular language in your town and get your foot in the door somewhere, but continue to learn additional languages on your own time so that if you want to move you’re as mobile as possible. And speaking of mobile, well, you’ll have to learn that too, and guess what. Objective-C only runs on Apple products but you’ll have to learn it anyway if you want to stay on top. Choice is indeed a blessing and a curse.
+
+
+
+
