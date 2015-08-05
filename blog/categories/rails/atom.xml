@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rails, | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/rails/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2015-08-05T09:32:13-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Talking Ruby on Rails on CodeCast]]></title>
+    <link href="http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast/"/>
+    <updated>2014-08-16T11:54:39-07:00</updated>
+    <id>http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast</id>
+    <content type="html"><![CDATA[<p>On July 2nd I did this video podcast for <a href='http://stltechtalk.com/'>St. Louis Tech Talk</a>. The subject is mostly Ruby on Rails with some personal history and a discussion of <a href='http://www.launchcode.org/'>Launch Code</a> mixed in. There&rsquo;s no Ember talk despite what the title says, but don&rsquo;t worry, that will come later. Enjoy!</p>
+
+<iframe width="560" height="315" src="http://fractalbanana.com//www.youtube.com/embed/asvqXFcOQqo" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>

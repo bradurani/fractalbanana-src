@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: St. Louis | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/st-louis/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2015-08-05T09:32:13-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Interview on the Upside Blog]]></title>
+    <link href="http://fractalbanana.com/blog/2014/03/26/interview-on-upside-blog/"/>
+    <updated>2014-03-26T23:05:27-07:00</updated>
+    <id>http://fractalbanana.com/blog/2014/03/26/interview-on-upside-blog</id>
+    <content type="html"><![CDATA[<p>The crew from <a href="http://gainupside.com">Upside</a> posted a short interview with me on the Upside blog.</p>
+
+<h3><a href="http://blog.gainupside.com/post/78654512941/meet-brad">Read the full post at gainupside.com >></a></h3>
+]]></content>
+  </entry>
+  
+</feed>

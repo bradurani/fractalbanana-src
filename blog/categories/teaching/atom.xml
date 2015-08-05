@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Teaching | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/teaching/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2015-08-05T09:32:13-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Curse of Choice in Programming Languages]]></title>
+    <link href="http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages/"/>
+    <updated>2013-11-30T07:05:33-08:00</updated>
+    <id>http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages</id>
+    <content type="html"><![CDATA[<p>There are too many programming languages. What I mean to say is there are too many <em>good</em> programming languages. Behavior psychologists have long warned about the curse of choice &ndash; the theory that too much choice causes anxiety and negatively affects decision making. We in the software world suffer from a severe form of that. We&rsquo;re literally drowning in options, all of which are good.</p>
+
+<p>Do you remember that myth from the late nineties about the great technology convergence where all software development converges onto one platform built with one programming language? Java was supposed to be the write once run anywhere language and we were all supposed to use it for everything. The first mobile apps were Java apps running on those old Nokia phones with the little green and black screens. Client-side web was supposed to move entirely to Java applets. Even software embedded into devices &ndash; like copy machines &ndash; was supposed to be written in Java, because we all know that managed memory code is great for copy machines. I can picture it now: the garbage collector kicks in while your copies are being made and they all come out smeared.</p>
+
+<p>Now the development landscape is more fragmented than ever and becoming more so. And that&rsquo;s a problem because it makes hiring and training significantly harder. The proliferation of new languages and frameworks is watering down the talent pool for the most popular languages, and among the new languages there seems to be no clear winner. Myth busted.</p>
+
+<!--more-->
+
+
+<p>Speaking of myths, there’s another one I’d like to dispel. It’s the one that says a good developer can pick up a new language over a weekend. Bologna. A good developer can pick up a new language <em>syntax</em> in a weekend, but learning the framework, conventions, tools, ecosystem, quirks and gotchas takes at least 6 months. That doesn’t mean a good developer can’t be productive after a few weeks, but being productive isn’t the same as language mastery and for some tasks, there&rsquo;s no substitute for language mastery.</p>
+
+<p>So here’s where we are for web: Ruby on Rails is great (possibly the best) but hardly cult-worthy. ASP.Net MVC (<del>which Rails plagiarized</del> which plagiarized Rails) is great. Yes it’s expensive, but the easy install and inter-op of the whole .Net environment saves time and money. Java is great and getting better, and has the biggest and best ecosystem of compatible libraries. The addition of lambdas in Java 8 will make it as good as C#. NodeJS is great, and really fast, despite the fact that JavaScript is flawed. The good front-end developers love it and that makes it appealing because you want to hire them. Python and Django are great, and most recent college grads have experience with Python. PHP is not great, but has some great frameworks, a mature toolset and a large pool of experienced developers from which to draw talent. Wordpress and Magento make it a legitimate choice, especially for marketing agencies.</p>
+
+<p>As if that weren’t enough, Scala, Clojure, Haskell, Go and Rust are all outstanding. Unfortunately, because they&rsquo;re outstanding people are going to start using them making the landscape even more divergent. Already sophisticated companies are adopting these new languages just because they&rsquo;re better than the old ones. Imagine that! Oh yeah, and why write plain vanilla JavaScript when you can use CoffeeScript, ClojureScript, TypeScript or Dart? Just shoot me now.</p>
+
+<p>Ok, ok I take it back. I’m all for the advancement of computer science and hope that languages continue to evolve and get better. I&rsquo;m teaching myself Scala purely for the joy of learning it. But don’t be fooled into thinking there’s not a downside to all of this. What do you do when that senior .Net architect role you’ve had open for 6 months needs to be filled and the best applicants are only experienced in PHP? What do you do when the start-up you’ve built using NodeJS can’t find talent because you live in a town where it has yet to make a dent in Java? When you teach a class to train aspiring developers so they can get their first jobs (as I’m doing for <a href="http://launchcodestl.com">LaunchCode</a>), what language do you teach them? (I went with .Net because that&rsquo;s what most of the job openings in St. Louis are for, but I’m having second thoughts).</p>
+
+<p>The steady march of progress in programming languages is inevitable and ultimately beneficial but I shudder when I think about the hiring situation 5 years from now when more languages and frameworks have proven their merit and made the splintering worse. If you have to pick a language for your project, my advice is this: consider the hiring situation before you choose something new and cutting edge. Geography matters too. St. Louis, for instance, has a strong Java community but only a handful of good Ruby folks whereas on the West Coast Ruby is probably the best choice. If you’re just learning to program, well, good luck. Pick the most popular language in your town and get your foot in the door somewhere, but continue to learn additional languages on your own time so that if you want to move you’re as mobile as possible. And speaking of mobile, well, you’ll have to learn that too, and guess what. Objective-C only runs on Apple products but you’ll have to learn it anyway if you want to stay on top. Choice is indeed a blessing and a curse.</p>
+]]></content>
+  </entry>
+  
+</feed>

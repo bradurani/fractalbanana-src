@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2015-08-05T09:32:13-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[LaunchCode at Upside Promo Video]]></title>
+    <link href="http://fractalbanana.com/blog/2015/03/14/launchcode-at-upside-promo-video/"/>
+    <updated>2015-03-14T05:11:10-07:00</updated>
+    <id>http://fractalbanana.com/blog/2015/03/14/launchcode-at-upside-promo-video</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s a short video about me and two of our <a href="http://upsideadvisor.com">Upside</a> team members who were placed through <a href="https://www.launchcode.org/">LaunchCode</a>, a non-profit that places aspiring developers in their first jobs. I&rsquo;m so proud of these 2 young men and what we&rsquo;ve accomplished together.</p>
+
+<div id="fb-root"></div>
+
+
+<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div class="fb-post" data-href="https://www.facebook.com/video.php?v=846359705425978" data-width="466"><div class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/video.php?v=846359705425978">Post</a> by <a href="https://www.facebook.com/launchcodestl">Launchcode</a>.</div></div>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Life After OO: Functional Ruby]]></title>
+    <link href="http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby/"/>
+    <updated>2015-02-16T20:57:17-08:00</updated>
+    <id>http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby</id>
+    <content type="html"><![CDATA[<p>Video podcast on Functional Ruby for <a href="http://codecaststl.com/">CodeCast</a> by <a href="http://codecaststl.com/">STLTechTalk</a>. Big thank you to <a href="https://twitter.com/jjhammondmusic">JJ</a>, <a href="https://twitter.com/jjhammondmusic">Kevin</a> and <a href="https://twitter.com/n_f_e">Gus</a>. Sorry I cursed so much :)</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S1jxHf2TZGA" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test-Driven JavaScript With Jasmine Video]]></title>
+    <link href="http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video/"/>
+    <updated>2015-02-16T20:48:30-08:00</updated>
+    <id>http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video</id>
+    <content type="html"><![CDATA[<p>InfoQ has published a video of my presentation on JavaScript TDD with Jasmine from the 2014 Kansas City Developer Conference.</p>
+
+<h3><a href="http://www.infoq.com/presentations/jasmine-unit-tests-javascript">Watch on InfoQ >></a></h3>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Talking Ruby on Rails on CodeCast]]></title>
+    <link href="http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast/"/>
+    <updated>2014-08-16T11:54:39-07:00</updated>
+    <id>http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast</id>
+    <content type="html"><![CDATA[<p>On July 2nd I did this video podcast for <a href='http://stltechtalk.com/'>St. Louis Tech Talk</a>. The subject is mostly Ruby on Rails with some personal history and a discussion of <a href='http://www.launchcode.org/'>Launch Code</a> mixed in. There&rsquo;s no Ember talk despite what the title says, but don&rsquo;t worry, that will come later. Enjoy!</p>
+
+<iframe width="560" height="315" src="http://fractalbanana.com//www.youtube.com/embed/asvqXFcOQqo" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Review of Coursera's Functional Programming Principles in Scala]]></title>
+    <link href="http://fractalbanana.com/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala/"/>
+    <updated>2014-06-30T07:32:09-07:00</updated>
+    <id>http://fractalbanana.com/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala</id>
+    <content type="html"><![CDATA[<p>In case you’ve been asleep, functional programming is the new standard in modern programming language and application design. To those of us who have been using languages with functional features, such as Ruby, C# and JavaScript, it doesn’t seem at first glance like a major paradigm shift. This is especially true since functional design is not mutually exclusive to object-oriented design (in fact as the Scala language proves, they complement each other quite nicely). However when you apply functional principles universally using a functional language, it becomes clear that FP is a significant step forward from the Java-style object-heavy approach that it is slowly replacing.<br/>
+I signed up for Functional Programming Principles in Scala on Coursera to experience for myself the new secret sauce having heard that the course is outstanding. I’m happy to say that it was outstanding beyond my expectations. It’s a perfectly designed introduction and easily the most rewarding online class I’ve ever taken.<br/>
+Perhaps it shouldn’t be a surprise that the course is so good. It’s taught by Scala’s creator, Martin Odersky. What <em>is</em> surprising is that throughout the course, he talks very little about functional programming principles at a high level. Instead he teaches by example starting with simple recursive algorithm problems and ending with a really clever algorithmic game solver. In between we solved some classic computer science problems &ndash; problems I had solved before in school &ndash; using pure FP in a way that highlights where the functional solutions improve on the older procedural solutions. It’s in the progression of increasingly more involved assignments &ndash; which stepwise introduce language features and concepts &ndash; that the class succeeds so cleverly. One is never instructed to use pure functional programming, but rather arrives there naturally as one technique begets the next and the assignments grow in complexity. If you’re autodidactic like me, and generally wary of formal education, you’ll appreciate Professor Odersky’s subtle approach.</p>
+
+<p>So what did I learn?</p>
+
+<ul>
+<li>Recursion combined with immutable linked lists is the best way to do list operations</li>
+<li>Pattern matching is the hottest language feature since lambdas. They’re super-charged conditionals</li>
+<li>Lazy sequences and lazy evaluation are a breeze when they’re built into the language</li>
+<li>Often when I’m using a list, I should be using a set</li>
+<li>Tuples do serve a purpose when your language is strongly typed</li>
+<li>You can have strong typing without excessive boilerplate</li>
+<li>Tail call optimization makes a language more powerful (I’m looking at you, Ruby)</li>
+<li>Accessing instance variables from within methods is safe if they’re immutable</li>
+<li>Encapsulation with higher-order functions is cleaner than delegation</li>
+<li>Side-effect free code weakens the case for test doubles</li>
+</ul>
+
+
+<p>Whether you have or have not been exposed to functional programming, this is a great course. If you’ve ever studied recursive algorithms and enjoyed it, this course will rekindle your excitement by giving you new more powerful ways to solve old problems. Be prepared to fall in love with the Scala language: it fixes most of what’s wrong with Java and augments it with new capabilities that lead to simply better code. While it is not addressed in this course, I’m looking forward to seeing how functional programming improves concurrent operations in distributed environments. Fortunately that’s the subject of Dr. Odersky&rsquo;s <a href="https://www.coursera.org/course/reactive">next class</a> which you can bet I’ll be taking.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Reviews of 5 JavaScript Books]]></title>
+    <link href="http://fractalbanana.com/blog/2014/04/23/reviews-of-5-javascript-books/"/>
+    <updated>2014-04-23T04:06:30-07:00</updated>
+    <id>http://fractalbanana.com/blog/2014/04/23/reviews-of-5-javascript-books</id>
+    <content type="html"><![CDATA[<p><strong>TL;DR:</strong> Start with <a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/">The Good Parts</a>, then read <a href="http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752/">JavaScript Patterns</a> if you’re hungry for more. Read <a href="http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726/">Functional JavaScript</a> when you’re ready to have your mind blown and learn a new way to program. <a href="http://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler/dp/1449323391/">Testable JavaScript</a> and <a href="http://www.amazon.com/JavaScript-Testing-Jasmine-Behavior-Driven-Development/dp/1449356370/">JavaScript Testing with Jasmine</a> can be skipped provided you know it’s a great idea to use event hubs and write unit tests.</p>
+
+<p>18 years after I wrote my first line of JavaScript (Netscape 2.0 for Macintosh was released in March of 1996), I decided it was time to catch up on the latest best practices and fill in the gaps of my dated understanding of JavaScript. I guess I’m late to the JavaScript renaissance, but it only took 5 books to bring me up to speed. The result? A very slick open source micro-framework called Ranger (<a href="http://www.github.com/bradurani/ranger">http://www.github.com/bradurani/ranger</a>) that I’ll blog about as soon as I’ve documented it. Here’s how I got there</p>
+
+<h2>Review: <a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/">JavaScript the Good Parts</a> &ndash; Douglas Crockford</h2>
+
+<p>The best programming books are the ones that show you examples of what NOT to do. This is just such a book. In fact, it could just as easily be called “JavaScript the Bad Parts”, but I suppose it wouldn’t sell as well. It’s a classic, and it’s the first book you should read when you’re ready to admit that loose collections of barely organized jQuery do not an application organize.<br/>
+It’s opinionated &ndash; to a fault in fact. And while it’s heavy on language mechanics with nary a hint on how to put them into practice, that’s no excuse for skipping it. It’s barely 100 pages, and it sets the stage for everything that comes after it. JavaScript is a quirky language and its proclivities are easy to forget. You have to read about them several times and experiment if you’re going to remember them. Crockford’s book is the perfect first exposure, plus you can name drop him during any job interview and get instant brownie points.<br/>
+Read it, digest it, read it again. Try out his linter, JSLint, then ditch it for the less opinionated JSHint. Only when you’re fully steeped in the bad parts, should you move on to something more imminently practical. It’s also worth checking out his video on the subject <a href="https://www.youtube.com/watch?v=hQVTIJBZook">here</a>, but watching it doesn’t excuse you from reading the book.</p>
+
+<h2>Review: <a href="http://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler/dp/1449323391/">Testable JavaScript</a> &ndash; Mark Ethan Trostler</h2>
+
+<p>I had high hopes for this book but most of it wasn’t useful to me. the first few chapters, however, were worth the price of admission. Chapter 1 is the perfect exposition and eminently quotable :<br/>
+“Your ideas are unique, your code is not”<br/>
+“Testable JavaScript is your gateway to sanity”<br/>
+“Unit tests are a developer’s first line of defense”<br/>
+But it’s chapter 2 where the value of this books lies. Here we study command / query separation, function decomposition, and scoping for testability. There are great discussions of cyclomatic complexity, fan in and fan out, and a complete Linnean breakdown of the genera of coupling. Most impressive indeed, especially since we also get a full dose of dependency injection (one of my favorite subjects) and a comprehensive look at documentation tools.<br/>
+Chapter 3 makes a convincing case for event-based architecture. So convincing, in fact, that I now use event-based architectures for everything I build with JavaScript (and I’m not talking about click events and other jQuery gimmies, I was already using those). The event hub example (the most important pattern in JavaScript architecture?), is a server-side example for node.js, but the point is still made, even if you only write JS for browsers.<br/>
+Chapter 4 mixes great advice about unit-testing, with annoying examples using the YUI framework, which I don’t use (<a href="http://jasmine.github.io/">Jasmine</a> is better). It has a great breakdown of mocks, stubs and spies, then veers off into tools such as PhantomJS (a headless browser) and Selenium (a functional testing tool). Pick and choose here, there are useful bits between the tool focused parts.<br/>
+The rest of the book was useful, or maybe useless. I’m not sure, I didn’t read it. It’s about tools for code coverage and load testing and automation and things only NodeJS developers care about. Read it if you want, but it’s probably already out-of-date. The first 3.5 chapters are very good though.</p>
+
+<h2>Review: <a href="http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752/">JavaScript Patterns</a> &ndash; Stoyan Stefanov</h2>
+
+<p>This book picks up where “The Good Parts” leaves off. Actually, it starts by repeating everything from “The Good Parts”, which is great, because you forgot those things, and need to see them again. What comes after is what’s really useful: page after of page of practical, usable design patterns that you can use in your own applications. You get 5 versions of inheritance, a panoply of object construction variations, and an almost complete rehash of the <a href="http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/">Gang of Four classics</a>. Best though, are the module, namespace and sandbox patterns, which have spawned many micro-frameworks. <br/>
+This is solid, usable stuff. Even if you don’t write your own framework (this book gives you the pieces), these lessons help you identify patterns you see in the wild, and the first step to becoming an application architect is identifying patterns by name. If you don’t have time to read the whole book (shame on you), there’s a nice blog post <a href="http://addyosmani.com/largescalejavascript/">here</a> that summerizes many of the more useful patterns.</p>
+
+<h2>Review: <a href="http://www.amazon.com/JavaScript-Testing-Jasmine-Behavior-Driven-Development/dp/1449356370/">JavaScript Testing with Jasmine</a> &ndash; Evan Hahn</h2>
+
+<p>Jasmine is stellar<br/>
+This book is out of date now<br/>
+Skip it and read <a href="http://jasmine.github.io/">docs</a></p>
+
+<h2>Review: <a href="http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726/">Functional JavaScript</a> &ndash; Michael Fogus</h2>
+
+<p>Ok LISPers, Scala Jockeys and Clojurites, you’ve got the jump on me here. I mean I know about lambdas, map, reduce and filter, but those are tools for writing concise functions, not architectures for entire applications&hellip; or so I thought. Let me back up. I’ve known about functional programming for many years, and being a former C# dev, I know that lambdas are a way of life. However I never knew exactly how to translate those concepts to architectural patterns. I’d been prosthelytizing the trees but missing the forest.<br/>
+Functional programming is about composing functions to create pipelines for data transformation, and if you haven’t read a book like this, or practiced it yourself, it’s not easily intuited. It’s functions instead of loops, functions instead of ifs, functions returning functions and taking functions as arguments. It’s not just about pulling punchy one-liners like you Rubyists gloat about. Functional programming is a lifestyle, a higher-order of being where everything’s a function and inheritance only marginally useful.<br/>
+That JavaScript is functional at all is a small miracle. It happened sometime between 2:00 am and 4:00 am in February of 1996 &ndash; when Brendan Eich was blessed with an ephiphany, imparted by angels like an annunciation on a <a href="http://en.wikipedia.org/wiki/M%C3%A9rode_Altarpiece">gothic triptych</a>: functions should be first class objects. He took the road less-traveled &ndash; a sharp turn off the highway towards Java-like languages that the world was hell-bent on following at the time. JavaScript was not a complete failure, having inherited just enough LISP to make it really useful.<br/>
+The build up is slow. Ravel’s Bolero, but it’s not a sex scene. We hear readable, reusable code composed of tiny simple functions &ndash; short sharp drum beats that build to form a symphony. It’s complexity simplified to the simplest it can be, and not a drop simpler.<br/>
+And what’s this I finally understand? Monads! They’re not burritos, nor train cars, nor spacesuits nor any other obfuscating metaphor. They’re abstractions used to augment primitives with additional processing rules as they travel through data transformation pipelines. “You had the power all along, my dear”, said the good witch to Dorothy, “and you realized it on page 185”. <br/>
+There is life after inheritance. There’s more than OO. Now pass me that function and I’ll give you one back. Recurse until you catch the final burrito, the final train car, the final space suit. Peal back the foil and behold the result. The new JavaScript is functional. Now where do I learn more about Scala?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Interview on the Upside Blog]]></title>
+    <link href="http://fractalbanana.com/blog/2014/03/26/interview-on-upside-blog/"/>
+    <updated>2014-03-26T23:05:27-07:00</updated>
+    <id>http://fractalbanana.com/blog/2014/03/26/interview-on-upside-blog</id>
+    <content type="html"><![CDATA[<p>The crew from <a href="http://gainupside.com">Upside</a> posted a short interview with me on the Upside blog.</p>
+
+<h3><a href="http://blog.gainupside.com/post/78654512941/meet-brad">Read the full post at gainupside.com >></a></h3>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test-Driven JavaScript With Jasmine Video]]></title>
+    <link href="http://fractalbanana.com/blog/2014/03/26/test-driven-javascript-with-jasmine-video/"/>
+    <updated>2014-03-26T22:45:03-07:00</updated>
+    <id>http://fractalbanana.com/blog/2014/03/26/test-driven-javascript-with-jasmine-video</id>
+    <content type="html"><![CDATA[<p>Here is a video of a presentation I gave at the <a href="http://www.meetup.com/STL-JS-meetup/">STLJS meetup</a> on January 16th, 2014 entitled Test-Driven JavaScript with Jasmine. The source code for the demo is on my GitHub page <a href="http://https://github.com/bradurani/ConwaysGameOfLifeJasmineDemo">here</a> and the slides are <a href="https://docs.google.com/presentation/d/1ASDGgdkzKuJ7Epwzf0T3M1Mw-jXhlH5NRIqyFKa31Pk/edit?usp=sharing">here</a></p>
+
+<iframe width="560" height="315" src="http://fractalbanana.com//www.youtube.com/embed/Yt4QypqFDyg" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Truth About Internet Marketing Part 2: SEO Is a Scam]]></title>
+    <link href="http://fractalbanana.com/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam/"/>
+    <updated>2013-12-22T14:32:48-08:00</updated>
+    <id>http://fractalbanana.com/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam</id>
+    <content type="html"><![CDATA[<p>The second in a series of articles I wrote about Internet marketing has been published by Techli. Why (most) SEO is a scam.</p>
+
+<h3><a href="http://techli.com/2013/12/the-truth-about-internet-marketing-part-2-seo-is-a-scam/">Read the full article at Techli.com >></a></h3>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Link Roundup #2]]></title>
+    <link href="http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2/"/>
+    <updated>2013-12-13T05:42:41-08:00</updated>
+    <id>http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://www.economist.com/news/21588893-tech-elite-will-join-bankers-and-oilmen-public-demonology-predicts-adrian-wooldridge-coming">The coming tech-lash</a> &ndash; The Economist</li>
+<li><a href="http://martinfowler.com/bliki/Datensparsamkeit.html">Datensparsamkeit
+</a> &ndash; Martin Fowler on data privacy</li>
+<li><a href="http://www.troyhunt.com/2013/12/micro-optimising-web-content-for.html">Micro optimising web content for unexpected, wild success
+</a> &ndash; Troy Hunt</li>
+<li><a href="http://www.kaushik.net/avinash/digital-marketing-analytics-ladder-step-by-step-success/">Digital Marketing And Analytics: Two Ladders For Magnificent Success
+</a> &ndash; Avinash Kaushik</li>
+<li><a href="http://arstechnica.com/information-technology/2013/12/gmail-blows-up-e-mail-marketing-by-caching-all-images-on-google-servers/#p3">Google blows up email marketing</a> &ndash; Ron Amadeo, Ars Technica</li>
+<li><a href="http://gbracha.blogspot.com/2011/01/maybe-monads-might-not-matter.html">Maybe Monads Might Not Matter</a> &ndash; Room 101</li>
+<li><a href="http://unqualified-reservations.blogspot.com/2007/08/whats-wrong-with-cs-research.html">What’s wrong with CS research</a> &ndash; Classic from 2007 by Mencius Moldbug</li>
+<li><a href="http://www.codinghorror.com/blog/2009/03/the-ugly-american-programmer.html">The Ugly American Programmer</a> &ndash; Classic from 2007 by Jeff Atwood</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Truth About Internet Marketing (Part 1)]]></title>
+    <link href="http://fractalbanana.com/blog/2013/12/13/the-truth-about-internet-marketing-part-1/"/>
+    <updated>2013-12-13T02:22:16-08:00</updated>
+    <id>http://fractalbanana.com/blog/2013/12/13/the-truth-about-internet-marketing-part-1</id>
+    <content type="html"><![CDATA[<p>Internet marketing is deceptively difficult. While it’s true that all of your customers are only a click away, small businesses often discover that breaking their way into the search engine results pages and stealing clicks from their entrenched competitors is an insurmountable task. The truth is that search engine marketing leads to natural monopolies and there aren’t many alternative channels through which smaller retailers and media companies can stake out territory.</p>
+
+<h3><a href="http://techli.com/2013/12/the-truth-about-internet-marketing-part-1/">Read the full article at Techli.com >></a></h3>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Link Roundup #1]]></title>
+    <link href="http://fractalbanana.com/blog/2013/12/03/link-roundup-number-1/"/>
+    <updated>2013-12-03T16:43:29-08:00</updated>
+    <id>http://fractalbanana.com/blog/2013/12/03/link-roundup-number-1</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://www.telegraph.co.uk/technology/internet/10468112/The-internet-mystery-that-has-the-world-baffled.html">The Internet Mystery that has the World Baffled</a></li>
+<li><a href="http://venturebeat.com/2013/11/29/sentient-code-an-inside-look-at-stephen-wolframs-utterly-new-insanely-ambitious-computational-paradigm/">Sentient code: An inside look at Stephen Wolfram’s utterly new, insanely ambitious computational paradigm</a></li>
+<li><a href="http://ilearnasigoalong.blogspot.com/2013/10/efficient-techniques-for-fuzzy-and.html">Efficient Techniques for Fuzzy and Partial matching in MongoDB</a></li>
+<li><a href="http://www.joelonsoftware.com/articles/fog0000000069.html">Things You Should Never Do, Part I</a> &ndash; Classic post from 2000 by Joel Spolsky</li>
+</ul>
+
+
+<p>Great series on new paradigms in object-oriented and functional programming by Anthony Ferrara</p>
+
+<ul>
+<li><a href="http://blog.ircmaxell.com/2013/09/beyond-design-patterns.html">Beyond Design Patterns</a></li>
+<li><a href="http://blog.ircmaxell.com/2013/11/beyond-inheritance.html">Beyond Inheritance</a></li>
+<li><a href="http://blog.ircmaxell.com/2013/11/beyond-object-oriented-programming.html">Beyond Object-Oriented Programming</a></li>
+<li><a href="http://blog.ircmaxell.com/2013/11/beyond-clean-code.html">Beyond Clean Code</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Curse of Choice in Programming Languages]]></title>
+    <link href="http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages/"/>
+    <updated>2013-11-30T07:05:33-08:00</updated>
+    <id>http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages</id>
+    <content type="html"><![CDATA[<p>There are too many programming languages. What I mean to say is there are too many <em>good</em> programming languages. Behavior psychologists have long warned about the curse of choice &ndash; the theory that too much choice causes anxiety and negatively affects decision making. We in the software world suffer from a severe form of that. We&rsquo;re literally drowning in options, all of which are good.</p>
+
+<p>Do you remember that myth from the late nineties about the great technology convergence where all software development converges onto one platform built with one programming language? Java was supposed to be the write once run anywhere language and we were all supposed to use it for everything. The first mobile apps were Java apps running on those old Nokia phones with the little green and black screens. Client-side web was supposed to move entirely to Java applets. Even software embedded into devices &ndash; like copy machines &ndash; was supposed to be written in Java, because we all know that managed memory code is great for copy machines. I can picture it now: the garbage collector kicks in while your copies are being made and they all come out smeared.</p>
+
+<p>Now the development landscape is more fragmented than ever and becoming more so. And that&rsquo;s a problem because it makes hiring and training significantly harder. The proliferation of new languages and frameworks is watering down the talent pool for the most popular languages, and among the new languages there seems to be no clear winner. Myth busted.</p>
+
+<!--more-->
+
+
+<p>Speaking of myths, there’s another one I’d like to dispel. It’s the one that says a good developer can pick up a new language over a weekend. Bologna. A good developer can pick up a new language <em>syntax</em> in a weekend, but learning the framework, conventions, tools, ecosystem, quirks and gotchas takes at least 6 months. That doesn’t mean a good developer can’t be productive after a few weeks, but being productive isn’t the same as language mastery and for some tasks, there&rsquo;s no substitute for language mastery.</p>
+
+<p>So here’s where we are for web: Ruby on Rails is great (possibly the best) but hardly cult-worthy. ASP.Net MVC (<del>which Rails plagiarized</del> which plagiarized Rails) is great. Yes it’s expensive, but the easy install and inter-op of the whole .Net environment saves time and money. Java is great and getting better, and has the biggest and best ecosystem of compatible libraries. The addition of lambdas in Java 8 will make it as good as C#. NodeJS is great, and really fast, despite the fact that JavaScript is flawed. The good front-end developers love it and that makes it appealing because you want to hire them. Python and Django are great, and most recent college grads have experience with Python. PHP is not great, but has some great frameworks, a mature toolset and a large pool of experienced developers from which to draw talent. Wordpress and Magento make it a legitimate choice, especially for marketing agencies.</p>
+
+<p>As if that weren’t enough, Scala, Clojure, Haskell, Go and Rust are all outstanding. Unfortunately, because they&rsquo;re outstanding people are going to start using them making the landscape even more divergent. Already sophisticated companies are adopting these new languages just because they&rsquo;re better than the old ones. Imagine that! Oh yeah, and why write plain vanilla JavaScript when you can use CoffeeScript, ClojureScript, TypeScript or Dart? Just shoot me now.</p>
+
+<p>Ok, ok I take it back. I’m all for the advancement of computer science and hope that languages continue to evolve and get better. I&rsquo;m teaching myself Scala purely for the joy of learning it. But don’t be fooled into thinking there’s not a downside to all of this. What do you do when that senior .Net architect role you’ve had open for 6 months needs to be filled and the best applicants are only experienced in PHP? What do you do when the start-up you’ve built using NodeJS can’t find talent because you live in a town where it has yet to make a dent in Java? When you teach a class to train aspiring developers so they can get their first jobs (as I’m doing for <a href="http://launchcodestl.com">LaunchCode</a>), what language do you teach them? (I went with .Net because that&rsquo;s what most of the job openings in St. Louis are for, but I’m having second thoughts).</p>
+
+<p>The steady march of progress in programming languages is inevitable and ultimately beneficial but I shudder when I think about the hiring situation 5 years from now when more languages and frameworks have proven their merit and made the splintering worse. If you have to pick a language for your project, my advice is this: consider the hiring situation before you choose something new and cutting edge. Geography matters too. St. Louis, for instance, has a strong Java community but only a handful of good Ruby folks whereas on the West Coast Ruby is probably the best choice. If you’re just learning to program, well, good luck. Pick the most popular language in your town and get your foot in the door somewhere, but continue to learn additional languages on your own time so that if you want to move you’re as mobile as possible. And speaking of mobile, well, you’ll have to learn that too, and guess what. Objective-C only runs on Apple products but you’ll have to learn it anyway if you want to stay on top. Choice is indeed a blessing and a curse.</p>
+]]></content>
+  </entry>
+  
+</feed>

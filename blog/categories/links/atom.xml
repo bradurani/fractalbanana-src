@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Links | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/links/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2015-08-05T09:32:13-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Link Roundup #2]]></title>
+    <link href="http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2/"/>
+    <updated>2013-12-13T05:42:41-08:00</updated>
+    <id>http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://www.economist.com/news/21588893-tech-elite-will-join-bankers-and-oilmen-public-demonology-predicts-adrian-wooldridge-coming">The coming tech-lash</a> &ndash; The Economist</li>
+<li><a href="http://martinfowler.com/bliki/Datensparsamkeit.html">Datensparsamkeit
+</a> &ndash; Martin Fowler on data privacy</li>
+<li><a href="http://www.troyhunt.com/2013/12/micro-optimising-web-content-for.html">Micro optimising web content for unexpected, wild success
+</a> &ndash; Troy Hunt</li>
+<li><a href="http://www.kaushik.net/avinash/digital-marketing-analytics-ladder-step-by-step-success/">Digital Marketing And Analytics: Two Ladders For Magnificent Success
+</a> &ndash; Avinash Kaushik</li>
+<li><a href="http://arstechnica.com/information-technology/2013/12/gmail-blows-up-e-mail-marketing-by-caching-all-images-on-google-servers/#p3">Google blows up email marketing</a> &ndash; Ron Amadeo, Ars Technica</li>
+<li><a href="http://gbracha.blogspot.com/2011/01/maybe-monads-might-not-matter.html">Maybe Monads Might Not Matter</a> &ndash; Room 101</li>
+<li><a href="http://unqualified-reservations.blogspot.com/2007/08/whats-wrong-with-cs-research.html">What’s wrong with CS research</a> &ndash; Classic from 2007 by Mencius Moldbug</li>
+<li><a href="http://www.codinghorror.com/blog/2009/03/the-ugly-american-programmer.html">The Ugly American Programmer</a> &ndash; Classic from 2007 by Jeff Atwood</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>

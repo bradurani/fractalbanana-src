@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Software | Fractal Banana]]></title>
+  <link href="http://fractalbanana.com/blog/categories/software/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com/"/>
+  <updated>2015-08-05T09:32:13-07:00</updated>
+  <id>http://fractalbanana.com/</id>
+  <author>
+    <name><![CDATA[Brad Urani]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Reviews of 5 JavaScript Books]]></title>
+    <link href="http://fractalbanana.com/blog/2014/04/23/reviews-of-5-javascript-books/"/>
+    <updated>2014-04-23T04:06:30-07:00</updated>
+    <id>http://fractalbanana.com/blog/2014/04/23/reviews-of-5-javascript-books</id>
+    <content type="html"><![CDATA[<p><strong>TL;DR:</strong> Start with <a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/">The Good Parts</a>, then read <a href="http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752/">JavaScript Patterns</a> if you’re hungry for more. Read <a href="http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726/">Functional JavaScript</a> when you’re ready to have your mind blown and learn a new way to program. <a href="http://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler/dp/1449323391/">Testable JavaScript</a> and <a href="http://www.amazon.com/JavaScript-Testing-Jasmine-Behavior-Driven-Development/dp/1449356370/">JavaScript Testing with Jasmine</a> can be skipped provided you know it’s a great idea to use event hubs and write unit tests.</p>
+
+<p>18 years after I wrote my first line of JavaScript (Netscape 2.0 for Macintosh was released in March of 1996), I decided it was time to catch up on the latest best practices and fill in the gaps of my dated understanding of JavaScript. I guess I’m late to the JavaScript renaissance, but it only took 5 books to bring me up to speed. The result? A very slick open source micro-framework called Ranger (<a href="http://www.github.com/bradurani/ranger">http://www.github.com/bradurani/ranger</a>) that I’ll blog about as soon as I’ve documented it. Here’s how I got there</p>
+
+<h2>Review: <a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/">JavaScript the Good Parts</a> &ndash; Douglas Crockford</h2>
+
+<p>The best programming books are the ones that show you examples of what NOT to do. This is just such a book. In fact, it could just as easily be called “JavaScript the Bad Parts”, but I suppose it wouldn’t sell as well. It’s a classic, and it’s the first book you should read when you’re ready to admit that loose collections of barely organized jQuery do not an application organize.<br/>
+It’s opinionated &ndash; to a fault in fact. And while it’s heavy on language mechanics with nary a hint on how to put them into practice, that’s no excuse for skipping it. It’s barely 100 pages, and it sets the stage for everything that comes after it. JavaScript is a quirky language and its proclivities are easy to forget. You have to read about them several times and experiment if you’re going to remember them. Crockford’s book is the perfect first exposure, plus you can name drop him during any job interview and get instant brownie points.<br/>
+Read it, digest it, read it again. Try out his linter, JSLint, then ditch it for the less opinionated JSHint. Only when you’re fully steeped in the bad parts, should you move on to something more imminently practical. It’s also worth checking out his video on the subject <a href="https://www.youtube.com/watch?v=hQVTIJBZook">here</a>, but watching it doesn’t excuse you from reading the book.</p>
+
+<h2>Review: <a href="http://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler/dp/1449323391/">Testable JavaScript</a> &ndash; Mark Ethan Trostler</h2>
+
+<p>I had high hopes for this book but most of it wasn’t useful to me. the first few chapters, however, were worth the price of admission. Chapter 1 is the perfect exposition and eminently quotable :<br/>
+“Your ideas are unique, your code is not”<br/>
+“Testable JavaScript is your gateway to sanity”<br/>
+“Unit tests are a developer’s first line of defense”<br/>
+But it’s chapter 2 where the value of this books lies. Here we study command / query separation, function decomposition, and scoping for testability. There are great discussions of cyclomatic complexity, fan in and fan out, and a complete Linnean breakdown of the genera of coupling. Most impressive indeed, especially since we also get a full dose of dependency injection (one of my favorite subjects) and a comprehensive look at documentation tools.<br/>
+Chapter 3 makes a convincing case for event-based architecture. So convincing, in fact, that I now use event-based architectures for everything I build with JavaScript (and I’m not talking about click events and other jQuery gimmies, I was already using those). The event hub example (the most important pattern in JavaScript architecture?), is a server-side example for node.js, but the point is still made, even if you only write JS for browsers.<br/>
+Chapter 4 mixes great advice about unit-testing, with annoying examples using the YUI framework, which I don’t use (<a href="http://jasmine.github.io/">Jasmine</a> is better). It has a great breakdown of mocks, stubs and spies, then veers off into tools such as PhantomJS (a headless browser) and Selenium (a functional testing tool). Pick and choose here, there are useful bits between the tool focused parts.<br/>
+The rest of the book was useful, or maybe useless. I’m not sure, I didn’t read it. It’s about tools for code coverage and load testing and automation and things only NodeJS developers care about. Read it if you want, but it’s probably already out-of-date. The first 3.5 chapters are very good though.</p>
+
+<h2>Review: <a href="http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752/">JavaScript Patterns</a> &ndash; Stoyan Stefanov</h2>
+
+<p>This book picks up where “The Good Parts” leaves off. Actually, it starts by repeating everything from “The Good Parts”, which is great, because you forgot those things, and need to see them again. What comes after is what’s really useful: page after of page of practical, usable design patterns that you can use in your own applications. You get 5 versions of inheritance, a panoply of object construction variations, and an almost complete rehash of the <a href="http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/">Gang of Four classics</a>. Best though, are the module, namespace and sandbox patterns, which have spawned many micro-frameworks. <br/>
+This is solid, usable stuff. Even if you don’t write your own framework (this book gives you the pieces), these lessons help you identify patterns you see in the wild, and the first step to becoming an application architect is identifying patterns by name. If you don’t have time to read the whole book (shame on you), there’s a nice blog post <a href="http://addyosmani.com/largescalejavascript/">here</a> that summerizes many of the more useful patterns.</p>
+
+<h2>Review: <a href="http://www.amazon.com/JavaScript-Testing-Jasmine-Behavior-Driven-Development/dp/1449356370/">JavaScript Testing with Jasmine</a> &ndash; Evan Hahn</h2>
+
+<p>Jasmine is stellar<br/>
+This book is out of date now<br/>
+Skip it and read <a href="http://jasmine.github.io/">docs</a></p>
+
+<h2>Review: <a href="http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726/">Functional JavaScript</a> &ndash; Michael Fogus</h2>
+
+<p>Ok LISPers, Scala Jockeys and Clojurites, you’ve got the jump on me here. I mean I know about lambdas, map, reduce and filter, but those are tools for writing concise functions, not architectures for entire applications&hellip; or so I thought. Let me back up. I’ve known about functional programming for many years, and being a former C# dev, I know that lambdas are a way of life. However I never knew exactly how to translate those concepts to architectural patterns. I’d been prosthelytizing the trees but missing the forest.<br/>
+Functional programming is about composing functions to create pipelines for data transformation, and if you haven’t read a book like this, or practiced it yourself, it’s not easily intuited. It’s functions instead of loops, functions instead of ifs, functions returning functions and taking functions as arguments. It’s not just about pulling punchy one-liners like you Rubyists gloat about. Functional programming is a lifestyle, a higher-order of being where everything’s a function and inheritance only marginally useful.<br/>
+That JavaScript is functional at all is a small miracle. It happened sometime between 2:00 am and 4:00 am in February of 1996 &ndash; when Brendan Eich was blessed with an ephiphany, imparted by angels like an annunciation on a <a href="http://en.wikipedia.org/wiki/M%C3%A9rode_Altarpiece">gothic triptych</a>: functions should be first class objects. He took the road less-traveled &ndash; a sharp turn off the highway towards Java-like languages that the world was hell-bent on following at the time. JavaScript was not a complete failure, having inherited just enough LISP to make it really useful.<br/>
+The build up is slow. Ravel’s Bolero, but it’s not a sex scene. We hear readable, reusable code composed of tiny simple functions &ndash; short sharp drum beats that build to form a symphony. It’s complexity simplified to the simplest it can be, and not a drop simpler.<br/>
+And what’s this I finally understand? Monads! They’re not burritos, nor train cars, nor spacesuits nor any other obfuscating metaphor. They’re abstractions used to augment primitives with additional processing rules as they travel through data transformation pipelines. “You had the power all along, my dear”, said the good witch to Dorothy, “and you realized it on page 185”. <br/>
+There is life after inheritance. There’s more than OO. Now pass me that function and I’ll give you one back. Recurse until you catch the final burrito, the final train car, the final space suit. Peal back the foil and behold the result. The new JavaScript is functional. Now where do I learn more about Scala?</p>
+]]></content>
+  </entry>
+  
+</feed>
