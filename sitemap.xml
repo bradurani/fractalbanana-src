@@ -2,78 +2,82 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages/
+            http://fractalbanana.com//github/blog/2013/11/30/the-curse-of-choice-in-programming-languages/
         </loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fractalbanana.com/blog/2013/12/03/link-roundup-number-1/</loc>
+        <loc>http://fractalbanana.com//github/blog/2013/12/03/link-roundup-number-1/</loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
         <loc>
-            http://fractalbanana.com/blog/2013/12/13/the-truth-about-internet-marketing-part-1/
+            http://fractalbanana.com//github/blog/2013/12/13/the-truth-about-internet-marketing-part-1/
         </loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2/</loc>
+        <loc>http://fractalbanana.com//github/blog/2013/12/13/link-roundup-number-2/</loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
         <loc>
-            http://fractalbanana.com/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam/
+            http://fractalbanana.com//github/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam/
         </loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
         <loc>
-            http://fractalbanana.com/blog/2014/03/26/test-driven-javascript-with-jasmine-video/
+            http://fractalbanana.com//github/blog/2014/03/26/test-driven-javascript-with-jasmine-video/
         </loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fractalbanana.com/blog/2014/03/26/interview-on-upside-blog/</loc>
+        <loc>http://fractalbanana.com//github/blog/2014/03/26/interview-on-upside-blog/</loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fractalbanana.com/blog/2014/04/23/reviews-of-5-javascript-books/</loc>
+        <loc>http://fractalbanana.com//github/blog/2014/04/23/reviews-of-5-javascript-books/</loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
         <loc>
-            http://fractalbanana.com/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala/
+            http://fractalbanana.com//github/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala/
         </loc>
-        <lastmod>2015-08-05T09:16:47-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast/</loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
         <loc>
-            http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video/
+            http://fractalbanana.com//github/blog/2014/08/16/talking-ruby-on-rails-on-codecast/
         </loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby/</loc>
+        <loc>
+            http://fractalbanana.com//github/blog/2015/02/16/test-driven-javascript-with-jasmine-video/
+        </loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fractalbanana.com/blog/2015/03/14/launchcode-at-upside-promo-video/</loc>
+        <loc>http://fractalbanana.com//github/blog/2015/02/16/life-after-oo-functional-ruby/</loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fractalbanana.com/blog/archives/</loc>
+        <loc>
+            http://fractalbanana.com//github/blog/2015/03/14/launchcode-at-upside-promo-video/
+        </loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fractalbanana.com/</loc>
+        <loc>http://fractalbanana.com//github/blog/archives/</loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
     <url>
-        <loc>http://fractalbanana.com/robots.txt</loc>
+        <loc>http://fractalbanana.com//github/</loc>
+        <lastmod>2015-08-05T09:16:47-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fractalbanana.com//github/robots.txt</loc>
         <lastmod>2015-08-05T09:16:47-07:00</lastmod>
     </url>
 </urlset>

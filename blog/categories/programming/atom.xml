@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Programming, | Fractal Banana]]></title>
-  <link href="http://fractalbanana.com/blog/categories/programming/atom.xml" rel="self"/>
-  <link href="http://fractalbanana.com/"/>
-  <updated>2015-08-05T09:32:13-07:00</updated>
-  <id>http://fractalbanana.com/</id>
+  <link href="http://fractalbanana.com//github/blog/categories/programming/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com//github/"/>
+  <updated>2015-08-05T09:38:54-07:00</updated>
+  <id>http://fractalbanana.com//github/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Life After OO: Functional Ruby]]></title>
-    <link href="http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby/"/>
+    <link href="http://fractalbanana.com//github/blog/2015/02/16/life-after-oo-functional-ruby/"/>
     <updated>2015-02-16T20:57:17-08:00</updated>
-    <id>http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby</id>
+    <id>http://fractalbanana.com//github/blog/2015/02/16/life-after-oo-functional-ruby</id>
     <content type="html"><![CDATA[<p>Video podcast on Functional Ruby for <a href="http://codecaststl.com/">CodeCast</a> by <a href="http://codecaststl.com/">STLTechTalk</a>. Big thank you to <a href="https://twitter.com/jjhammondmusic">JJ</a>, <a href="https://twitter.com/jjhammondmusic">Kevin</a> and <a href="https://twitter.com/n_f_e">Gus</a>. Sorry I cursed so much :)</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1jxHf2TZGA" frameborder="0" allowfullscreen></iframe>

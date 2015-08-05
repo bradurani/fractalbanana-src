@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Teaching | Fractal Banana]]></title>
-  <link href="http://fractalbanana.com/blog/categories/teaching/atom.xml" rel="self"/>
-  <link href="http://fractalbanana.com/"/>
-  <updated>2015-08-05T09:32:13-07:00</updated>
-  <id>http://fractalbanana.com/</id>
+  <link href="http://fractalbanana.com//github/blog/categories/teaching/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com//github/"/>
+  <updated>2015-08-05T09:38:54-07:00</updated>
+  <id>http://fractalbanana.com//github/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Curse of Choice in Programming Languages]]></title>
-    <link href="http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages/"/>
+    <link href="http://fractalbanana.com//github/blog/2013/11/30/the-curse-of-choice-in-programming-languages/"/>
     <updated>2013-11-30T07:05:33-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages</id>
+    <id>http://fractalbanana.com//github/blog/2013/11/30/the-curse-of-choice-in-programming-languages</id>
     <content type="html"><![CDATA[<p>There are too many programming languages. What I mean to say is there are too many <em>good</em> programming languages. Behavior psychologists have long warned about the curse of choice &ndash; the theory that too much choice causes anxiety and negatively affects decision making. We in the software world suffer from a severe form of that. We&rsquo;re literally drowning in options, all of which are good.</p>
 
 <p>Do you remember that myth from the late nineties about the great technology convergence where all software development converges onto one platform built with one programming language? Java was supposed to be the write once run anywhere language and we were all supposed to use it for everything. The first mobile apps were Java apps running on those old Nokia phones with the little green and black screens. Client-side web was supposed to move entirely to Java applets. Even software embedded into devices &ndash; like copy machines &ndash; was supposed to be written in Java, because we all know that managed memory code is great for copy machines. I can picture it now: the garbage collector kicks in while your copies are being made and they all come out smeared.</p>

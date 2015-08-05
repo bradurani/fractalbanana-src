@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Book | Fractal Banana]]></title>
-  <link href="http://fractalbanana.com/blog/categories/book/atom.xml" rel="self"/>
-  <link href="http://fractalbanana.com/"/>
-  <updated>2015-08-05T09:32:13-07:00</updated>
-  <id>http://fractalbanana.com/</id>
+  <link href="http://fractalbanana.com//github/blog/categories/book/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com//github/"/>
+  <updated>2015-08-05T09:38:54-07:00</updated>
+  <id>http://fractalbanana.com//github/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Reviews of 5 JavaScript Books]]></title>
-    <link href="http://fractalbanana.com/blog/2014/04/23/reviews-of-5-javascript-books/"/>
+    <link href="http://fractalbanana.com//github/blog/2014/04/23/reviews-of-5-javascript-books/"/>
     <updated>2014-04-23T04:06:30-07:00</updated>
-    <id>http://fractalbanana.com/blog/2014/04/23/reviews-of-5-javascript-books</id>
+    <id>http://fractalbanana.com//github/blog/2014/04/23/reviews-of-5-javascript-books</id>
     <content type="html"><![CDATA[<p><strong>TL;DR:</strong> Start with <a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/">The Good Parts</a>, then read <a href="http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752/">JavaScript Patterns</a> if you’re hungry for more. Read <a href="http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726/">Functional JavaScript</a> when you’re ready to have your mind blown and learn a new way to program. <a href="http://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler/dp/1449323391/">Testable JavaScript</a> and <a href="http://www.amazon.com/JavaScript-Testing-Jasmine-Behavior-Driven-Development/dp/1449356370/">JavaScript Testing with Jasmine</a> can be skipped provided you know it’s a great idea to use event hubs and write unit tests.</p>
 
 <p>18 years after I wrote my first line of JavaScript (Netscape 2.0 for Macintosh was released in March of 1996), I decided it was time to catch up on the latest best practices and fill in the gaps of my dated understanding of JavaScript. I guess I’m late to the JavaScript renaissance, but it only took 5 books to bring me up to speed. The result? A very slick open source micro-framework called Ranger (<a href="http://www.github.com/bradurani/ranger">http://www.github.com/bradurani/ranger</a>) that I’ll blog about as soon as I’ve documented it. Here’s how I got there</p>

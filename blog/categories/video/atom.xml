@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Video | Fractal Banana]]></title>
-  <link href="http://fractalbanana.com/blog/categories/video/atom.xml" rel="self"/>
-  <link href="http://fractalbanana.com/"/>
-  <updated>2015-08-05T09:32:13-07:00</updated>
-  <id>http://fractalbanana.com/</id>
+  <link href="http://fractalbanana.com//github/blog/categories/video/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com//github/"/>
+  <updated>2015-08-05T09:38:54-07:00</updated>
+  <id>http://fractalbanana.com//github/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Life After OO: Functional Ruby]]></title>
-    <link href="http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby/"/>
+    <link href="http://fractalbanana.com//github/blog/2015/02/16/life-after-oo-functional-ruby/"/>
     <updated>2015-02-16T20:57:17-08:00</updated>
-    <id>http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby</id>
+    <id>http://fractalbanana.com//github/blog/2015/02/16/life-after-oo-functional-ruby</id>
     <content type="html"><![CDATA[<p>Video podcast on Functional Ruby for <a href="http://codecaststl.com/">CodeCast</a> by <a href="http://codecaststl.com/">STLTechTalk</a>. Big thank you to <a href="https://twitter.com/jjhammondmusic">JJ</a>, <a href="https://twitter.com/jjhammondmusic">Kevin</a> and <a href="https://twitter.com/n_f_e">Gus</a>. Sorry I cursed so much :)</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1jxHf2TZGA" frameborder="0" allowfullscreen></iframe>
@@ -27,9 +27,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test-Driven JavaScript With Jasmine Video]]></title>
-    <link href="http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video/"/>
+    <link href="http://fractalbanana.com//github/blog/2015/02/16/test-driven-javascript-with-jasmine-video/"/>
     <updated>2015-02-16T20:48:30-08:00</updated>
-    <id>http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video</id>
+    <id>http://fractalbanana.com//github/blog/2015/02/16/test-driven-javascript-with-jasmine-video</id>
     <content type="html"><![CDATA[<p>InfoQ has published a video of my presentation on JavaScript TDD with Jasmine from the 2014 Kansas City Developer Conference.</p>
 
 <h3><a href="http://www.infoq.com/presentations/jasmine-unit-tests-javascript">Watch on InfoQ >></a></h3>
@@ -38,24 +38,24 @@
   
   <entry>
     <title type="html"><![CDATA[Talking Ruby on Rails on CodeCast]]></title>
-    <link href="http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast/"/>
+    <link href="http://fractalbanana.com//github/blog/2014/08/16/talking-ruby-on-rails-on-codecast/"/>
     <updated>2014-08-16T11:54:39-07:00</updated>
-    <id>http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast</id>
+    <id>http://fractalbanana.com//github/blog/2014/08/16/talking-ruby-on-rails-on-codecast</id>
     <content type="html"><![CDATA[<p>On July 2nd I did this video podcast for <a href='http://stltechtalk.com/'>St. Louis Tech Talk</a>. The subject is mostly Ruby on Rails with some personal history and a discussion of <a href='http://www.launchcode.org/'>Launch Code</a> mixed in. There&rsquo;s no Ember talk despite what the title says, but don&rsquo;t worry, that will come later. Enjoy!</p>
 
-<iframe width="560" height="315" src="http://fractalbanana.com//www.youtube.com/embed/asvqXFcOQqo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://fractalbanana.com//github//www.youtube.com/embed/asvqXFcOQqo" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Test-Driven JavaScript With Jasmine Video]]></title>
-    <link href="http://fractalbanana.com/blog/2014/03/26/test-driven-javascript-with-jasmine-video/"/>
+    <link href="http://fractalbanana.com//github/blog/2014/03/26/test-driven-javascript-with-jasmine-video/"/>
     <updated>2014-03-26T22:45:03-07:00</updated>
-    <id>http://fractalbanana.com/blog/2014/03/26/test-driven-javascript-with-jasmine-video</id>
+    <id>http://fractalbanana.com//github/blog/2014/03/26/test-driven-javascript-with-jasmine-video</id>
     <content type="html"><![CDATA[<p>Here is a video of a presentation I gave at the <a href="http://www.meetup.com/STL-JS-meetup/">STLJS meetup</a> on January 16th, 2014 entitled Test-Driven JavaScript with Jasmine. The source code for the demo is on my GitHub page <a href="http://https://github.com/bradurani/ConwaysGameOfLifeJasmineDemo">here</a> and the slides are <a href="https://docs.google.com/presentation/d/1ASDGgdkzKuJ7Epwzf0T3M1Mw-jXhlH5NRIqyFKa31Pk/edit?usp=sharing">here</a></p>
 
-<iframe width="560" height="315" src="http://fractalbanana.com//www.youtube.com/embed/Yt4QypqFDyg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://fractalbanana.com//github//www.youtube.com/embed/Yt4QypqFDyg" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
   </entry>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Links | Fractal Banana]]></title>
-  <link href="http://fractalbanana.com/blog/categories/links/atom.xml" rel="self"/>
-  <link href="http://fractalbanana.com/"/>
-  <updated>2015-08-05T09:32:13-07:00</updated>
-  <id>http://fractalbanana.com/</id>
+  <link href="http://fractalbanana.com//github/blog/categories/links/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com//github/"/>
+  <updated>2015-08-05T09:38:54-07:00</updated>
+  <id>http://fractalbanana.com//github/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Link Roundup #2]]></title>
-    <link href="http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2/"/>
+    <link href="http://fractalbanana.com//github/blog/2013/12/13/link-roundup-number-2/"/>
     <updated>2013-12-13T05:42:41-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2</id>
+    <id>http://fractalbanana.com//github/blog/2013/12/13/link-roundup-number-2</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://www.economist.com/news/21588893-tech-elite-will-join-bankers-and-oilmen-public-demonology-predicts-adrian-wooldridge-coming">The coming tech-lash</a> &ndash; The Economist</li>
 <li><a href="http://martinfowler.com/bliki/Datensparsamkeit.html">Datensparsamkeit

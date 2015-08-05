@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Fractal Banana]]></title>
-  <link href="http://fractalbanana.com/atom.xml" rel="self"/>
-  <link href="http://fractalbanana.com/"/>
-  <updated>2015-08-05T09:32:13-07:00</updated>
-  <id>http://fractalbanana.com/</id>
+  <link href="http://fractalbanana.com//github/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com//github/"/>
+  <updated>2015-08-05T09:38:54-07:00</updated>
+  <id>http://fractalbanana.com//github/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[LaunchCode at Upside Promo Video]]></title>
-    <link href="http://fractalbanana.com/blog/2015/03/14/launchcode-at-upside-promo-video/"/>
+    <link href="http://fractalbanana.com//github/blog/2015/03/14/launchcode-at-upside-promo-video/"/>
     <updated>2015-03-14T05:11:10-07:00</updated>
-    <id>http://fractalbanana.com/blog/2015/03/14/launchcode-at-upside-promo-video</id>
+    <id>http://fractalbanana.com//github/blog/2015/03/14/launchcode-at-upside-promo-video</id>
     <content type="html"><![CDATA[<p>Here&rsquo;s a short video about me and two of our <a href="http://upsideadvisor.com">Upside</a> team members who were placed through <a href="https://www.launchcode.org/">LaunchCode</a>, a non-profit that places aspiring developers in their first jobs. I&rsquo;m so proud of these 2 young men and what we&rsquo;ve accomplished together.</p>
 
 <div id="fb-root"></div>
@@ -35,9 +35,9 @@
   
   <entry>
     <title type="html"><![CDATA[Life After OO: Functional Ruby]]></title>
-    <link href="http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby/"/>
+    <link href="http://fractalbanana.com//github/blog/2015/02/16/life-after-oo-functional-ruby/"/>
     <updated>2015-02-16T20:57:17-08:00</updated>
-    <id>http://fractalbanana.com/blog/2015/02/16/life-after-oo-functional-ruby</id>
+    <id>http://fractalbanana.com//github/blog/2015/02/16/life-after-oo-functional-ruby</id>
     <content type="html"><![CDATA[<p>Video podcast on Functional Ruby for <a href="http://codecaststl.com/">CodeCast</a> by <a href="http://codecaststl.com/">STLTechTalk</a>. Big thank you to <a href="https://twitter.com/jjhammondmusic">JJ</a>, <a href="https://twitter.com/jjhammondmusic">Kevin</a> and <a href="https://twitter.com/n_f_e">Gus</a>. Sorry I cursed so much :)</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S1jxHf2TZGA" frameborder="0" allowfullscreen></iframe>
@@ -47,9 +47,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test-Driven JavaScript With Jasmine Video]]></title>
-    <link href="http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video/"/>
+    <link href="http://fractalbanana.com//github/blog/2015/02/16/test-driven-javascript-with-jasmine-video/"/>
     <updated>2015-02-16T20:48:30-08:00</updated>
-    <id>http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video</id>
+    <id>http://fractalbanana.com//github/blog/2015/02/16/test-driven-javascript-with-jasmine-video</id>
     <content type="html"><![CDATA[<p>InfoQ has published a video of my presentation on JavaScript TDD with Jasmine from the 2014 Kansas City Developer Conference.</p>
 
 <h3><a href="http://www.infoq.com/presentations/jasmine-unit-tests-javascript">Watch on InfoQ >></a></h3>
@@ -58,21 +58,21 @@
   
   <entry>
     <title type="html"><![CDATA[Talking Ruby on Rails on CodeCast]]></title>
-    <link href="http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast/"/>
+    <link href="http://fractalbanana.com//github/blog/2014/08/16/talking-ruby-on-rails-on-codecast/"/>
     <updated>2014-08-16T11:54:39-07:00</updated>
-    <id>http://fractalbanana.com/blog/2014/08/16/talking-ruby-on-rails-on-codecast</id>
+    <id>http://fractalbanana.com//github/blog/2014/08/16/talking-ruby-on-rails-on-codecast</id>
     <content type="html"><![CDATA[<p>On July 2nd I did this video podcast for <a href='http://stltechtalk.com/'>St. Louis Tech Talk</a>. The subject is mostly Ruby on Rails with some personal history and a discussion of <a href='http://www.launchcode.org/'>Launch Code</a> mixed in. There&rsquo;s no Ember talk despite what the title says, but don&rsquo;t worry, that will come later. Enjoy!</p>
 
-<iframe width="560" height="315" src="http://fractalbanana.com//www.youtube.com/embed/asvqXFcOQqo" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://fractalbanana.com//github//www.youtube.com/embed/asvqXFcOQqo" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Review of Coursera's Functional Programming Principles in Scala]]></title>
-    <link href="http://fractalbanana.com/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala/"/>
+    <link href="http://fractalbanana.com//github/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala/"/>
     <updated>2014-06-30T07:32:09-07:00</updated>
-    <id>http://fractalbanana.com/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala</id>
+    <id>http://fractalbanana.com//github/blog/2014/06/30/review-of-courseras-functional-programming-principles-in-scala</id>
     <content type="html"><![CDATA[<p>In case you’ve been asleep, functional programming is the new standard in modern programming language and application design. To those of us who have been using languages with functional features, such as Ruby, C# and JavaScript, it doesn’t seem at first glance like a major paradigm shift. This is especially true since functional design is not mutually exclusive to object-oriented design (in fact as the Scala language proves, they complement each other quite nicely). However when you apply functional principles universally using a functional language, it becomes clear that FP is a significant step forward from the Java-style object-heavy approach that it is slowly replacing.<br/>
 I signed up for Functional Programming Principles in Scala on Coursera to experience for myself the new secret sauce having heard that the course is outstanding. I’m happy to say that it was outstanding beyond my expectations. It’s a perfectly designed introduction and easily the most rewarding online class I’ve ever taken.<br/>
 Perhaps it shouldn’t be a surprise that the course is so good. It’s taught by Scala’s creator, Martin Odersky. What <em>is</em> surprising is that throughout the course, he talks very little about functional programming principles at a high level. Instead he teaches by example starting with simple recursive algorithm problems and ending with a really clever algorithmic game solver. In between we solved some classic computer science problems &ndash; problems I had solved before in school &ndash; using pure FP in a way that highlights where the functional solutions improve on the older procedural solutions. It’s in the progression of increasingly more involved assignments &ndash; which stepwise introduce language features and concepts &ndash; that the class succeeds so cleverly. One is never instructed to use pure functional programming, but rather arrives there naturally as one technique begets the next and the assignments grow in complexity. If you’re autodidactic like me, and generally wary of formal education, you’ll appreciate Professor Odersky’s subtle approach.</p>
@@ -99,9 +99,9 @@ Perhaps it shouldn’t be a surprise that the course is so good. It’s taught b
   
   <entry>
     <title type="html"><![CDATA[Reviews of 5 JavaScript Books]]></title>
-    <link href="http://fractalbanana.com/blog/2014/04/23/reviews-of-5-javascript-books/"/>
+    <link href="http://fractalbanana.com//github/blog/2014/04/23/reviews-of-5-javascript-books/"/>
     <updated>2014-04-23T04:06:30-07:00</updated>
-    <id>http://fractalbanana.com/blog/2014/04/23/reviews-of-5-javascript-books</id>
+    <id>http://fractalbanana.com//github/blog/2014/04/23/reviews-of-5-javascript-books</id>
     <content type="html"><![CDATA[<p><strong>TL;DR:</strong> Start with <a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/">The Good Parts</a>, then read <a href="http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752/">JavaScript Patterns</a> if you’re hungry for more. Read <a href="http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726/">Functional JavaScript</a> when you’re ready to have your mind blown and learn a new way to program. <a href="http://www.amazon.com/Testable-JavaScript-Mark-Ethan-Trostler/dp/1449323391/">Testable JavaScript</a> and <a href="http://www.amazon.com/JavaScript-Testing-Jasmine-Behavior-Driven-Development/dp/1449356370/">JavaScript Testing with Jasmine</a> can be skipped provided you know it’s a great idea to use event hubs and write unit tests.</p>
 
 <p>18 years after I wrote my first line of JavaScript (Netscape 2.0 for Macintosh was released in March of 1996), I decided it was time to catch up on the latest best practices and fill in the gaps of my dated understanding of JavaScript. I guess I’m late to the JavaScript renaissance, but it only took 5 books to bring me up to speed. The result? A very slick open source micro-framework called Ranger (<a href="http://www.github.com/bradurani/ranger">http://www.github.com/bradurani/ranger</a>) that I’ll blog about as soon as I’ve documented it. Here’s how I got there</p>
@@ -147,9 +147,9 @@ There is life after inheritance. There’s more than OO. Now pass me that functi
   
   <entry>
     <title type="html"><![CDATA[Interview on the Upside Blog]]></title>
-    <link href="http://fractalbanana.com/blog/2014/03/26/interview-on-upside-blog/"/>
+    <link href="http://fractalbanana.com//github/blog/2014/03/26/interview-on-upside-blog/"/>
     <updated>2014-03-26T23:05:27-07:00</updated>
-    <id>http://fractalbanana.com/blog/2014/03/26/interview-on-upside-blog</id>
+    <id>http://fractalbanana.com//github/blog/2014/03/26/interview-on-upside-blog</id>
     <content type="html"><![CDATA[<p>The crew from <a href="http://gainupside.com">Upside</a> posted a short interview with me on the Upside blog.</p>
 
 <h3><a href="http://blog.gainupside.com/post/78654512941/meet-brad">Read the full post at gainupside.com >></a></h3>
@@ -158,21 +158,21 @@ There is life after inheritance. There’s more than OO. Now pass me that functi
   
   <entry>
     <title type="html"><![CDATA[Test-Driven JavaScript With Jasmine Video]]></title>
-    <link href="http://fractalbanana.com/blog/2014/03/26/test-driven-javascript-with-jasmine-video/"/>
+    <link href="http://fractalbanana.com//github/blog/2014/03/26/test-driven-javascript-with-jasmine-video/"/>
     <updated>2014-03-26T22:45:03-07:00</updated>
-    <id>http://fractalbanana.com/blog/2014/03/26/test-driven-javascript-with-jasmine-video</id>
+    <id>http://fractalbanana.com//github/blog/2014/03/26/test-driven-javascript-with-jasmine-video</id>
     <content type="html"><![CDATA[<p>Here is a video of a presentation I gave at the <a href="http://www.meetup.com/STL-JS-meetup/">STLJS meetup</a> on January 16th, 2014 entitled Test-Driven JavaScript with Jasmine. The source code for the demo is on my GitHub page <a href="http://https://github.com/bradurani/ConwaysGameOfLifeJasmineDemo">here</a> and the slides are <a href="https://docs.google.com/presentation/d/1ASDGgdkzKuJ7Epwzf0T3M1Mw-jXhlH5NRIqyFKa31Pk/edit?usp=sharing">here</a></p>
 
-<iframe width="560" height="315" src="http://fractalbanana.com//www.youtube.com/embed/Yt4QypqFDyg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://fractalbanana.com//github//www.youtube.com/embed/Yt4QypqFDyg" frameborder="0" allowfullscreen></iframe>
 
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[The Truth About Internet Marketing Part 2: SEO Is a Scam]]></title>
-    <link href="http://fractalbanana.com/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam/"/>
+    <link href="http://fractalbanana.com//github/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam/"/>
     <updated>2013-12-22T14:32:48-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam</id>
+    <id>http://fractalbanana.com//github/blog/2013/12/22/the-truth-about-internet-marketing-part-2-seo-is-a-scam</id>
     <content type="html"><![CDATA[<p>The second in a series of articles I wrote about Internet marketing has been published by Techli. Why (most) SEO is a scam.</p>
 
 <h3><a href="http://techli.com/2013/12/the-truth-about-internet-marketing-part-2-seo-is-a-scam/">Read the full article at Techli.com >></a></h3>
@@ -181,9 +181,9 @@ There is life after inheritance. There’s more than OO. Now pass me that functi
   
   <entry>
     <title type="html"><![CDATA[Link Roundup #2]]></title>
-    <link href="http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2/"/>
+    <link href="http://fractalbanana.com//github/blog/2013/12/13/link-roundup-number-2/"/>
     <updated>2013-12-13T05:42:41-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/12/13/link-roundup-number-2</id>
+    <id>http://fractalbanana.com//github/blog/2013/12/13/link-roundup-number-2</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://www.economist.com/news/21588893-tech-elite-will-join-bankers-and-oilmen-public-demonology-predicts-adrian-wooldridge-coming">The coming tech-lash</a> &ndash; The Economist</li>
 <li><a href="http://martinfowler.com/bliki/Datensparsamkeit.html">Datensparsamkeit
@@ -203,9 +203,9 @@ There is life after inheritance. There’s more than OO. Now pass me that functi
   
   <entry>
     <title type="html"><![CDATA[The Truth About Internet Marketing (Part 1)]]></title>
-    <link href="http://fractalbanana.com/blog/2013/12/13/the-truth-about-internet-marketing-part-1/"/>
+    <link href="http://fractalbanana.com//github/blog/2013/12/13/the-truth-about-internet-marketing-part-1/"/>
     <updated>2013-12-13T02:22:16-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/12/13/the-truth-about-internet-marketing-part-1</id>
+    <id>http://fractalbanana.com//github/blog/2013/12/13/the-truth-about-internet-marketing-part-1</id>
     <content type="html"><![CDATA[<p>Internet marketing is deceptively difficult. While it’s true that all of your customers are only a click away, small businesses often discover that breaking their way into the search engine results pages and stealing clicks from their entrenched competitors is an insurmountable task. The truth is that search engine marketing leads to natural monopolies and there aren’t many alternative channels through which smaller retailers and media companies can stake out territory.</p>
 
 <h3><a href="http://techli.com/2013/12/the-truth-about-internet-marketing-part-1/">Read the full article at Techli.com >></a></h3>
@@ -214,9 +214,9 @@ There is life after inheritance. There’s more than OO. Now pass me that functi
   
   <entry>
     <title type="html"><![CDATA[Link Roundup #1]]></title>
-    <link href="http://fractalbanana.com/blog/2013/12/03/link-roundup-number-1/"/>
+    <link href="http://fractalbanana.com//github/blog/2013/12/03/link-roundup-number-1/"/>
     <updated>2013-12-03T16:43:29-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/12/03/link-roundup-number-1</id>
+    <id>http://fractalbanana.com//github/blog/2013/12/03/link-roundup-number-1</id>
     <content type="html"><![CDATA[<ul>
 <li><a href="http://www.telegraph.co.uk/technology/internet/10468112/The-internet-mystery-that-has-the-world-baffled.html">The Internet Mystery that has the World Baffled</a></li>
 <li><a href="http://venturebeat.com/2013/11/29/sentient-code-an-inside-look-at-stephen-wolframs-utterly-new-insanely-ambitious-computational-paradigm/">Sentient code: An inside look at Stephen Wolfram’s utterly new, insanely ambitious computational paradigm</a></li>
@@ -239,9 +239,9 @@ There is life after inheritance. There’s more than OO. Now pass me that functi
   
   <entry>
     <title type="html"><![CDATA[The Curse of Choice in Programming Languages]]></title>
-    <link href="http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages/"/>
+    <link href="http://fractalbanana.com//github/blog/2013/11/30/the-curse-of-choice-in-programming-languages/"/>
     <updated>2013-11-30T07:05:33-08:00</updated>
-    <id>http://fractalbanana.com/blog/2013/11/30/the-curse-of-choice-in-programming-languages</id>
+    <id>http://fractalbanana.com//github/blog/2013/11/30/the-curse-of-choice-in-programming-languages</id>
     <content type="html"><![CDATA[<p>There are too many programming languages. What I mean to say is there are too many <em>good</em> programming languages. Behavior psychologists have long warned about the curse of choice &ndash; the theory that too much choice causes anxiety and negatively affects decision making. We in the software world suffer from a severe form of that. We&rsquo;re literally drowning in options, all of which are good.</p>
 
 <p>Do you remember that myth from the late nineties about the great technology convergence where all software development converges onto one platform built with one programming language? Java was supposed to be the write once run anywhere language and we were all supposed to use it for everything. The first mobile apps were Java apps running on those old Nokia phones with the little green and black screens. Client-side web was supposed to move entirely to Java applets. Even software embedded into devices &ndash; like copy machines &ndash; was supposed to be written in Java, because we all know that managed memory code is great for copy machines. I can picture it now: the garbage collector kicks in while your copies are being made and they all come out smeared.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: TDD, | Fractal Banana]]></title>
-  <link href="http://fractalbanana.com/blog/categories/tdd/atom.xml" rel="self"/>
-  <link href="http://fractalbanana.com/"/>
-  <updated>2015-08-05T09:32:13-07:00</updated>
-  <id>http://fractalbanana.com/</id>
+  <link href="http://fractalbanana.com//github/blog/categories/tdd/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com//github/"/>
+  <updated>2015-08-05T09:38:54-07:00</updated>
+  <id>http://fractalbanana.com//github/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Test-Driven JavaScript With Jasmine Video]]></title>
-    <link href="http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video/"/>
+    <link href="http://fractalbanana.com//github/blog/2015/02/16/test-driven-javascript-with-jasmine-video/"/>
     <updated>2015-02-16T20:48:30-08:00</updated>
-    <id>http://fractalbanana.com/blog/2015/02/16/test-driven-javascript-with-jasmine-video</id>
+    <id>http://fractalbanana.com//github/blog/2015/02/16/test-driven-javascript-with-jasmine-video</id>
     <content type="html"><![CDATA[<p>InfoQ has published a video of my presentation on JavaScript TDD with Jasmine from the 2014 Kansas City Developer Conference.</p>
 
 <h3><a href="http://www.infoq.com/presentations/jasmine-unit-tests-javascript">Watch on InfoQ >></a></h3>

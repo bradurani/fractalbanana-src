@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Upside | Fractal Banana]]></title>
-  <link href="http://fractalbanana.com/blog/categories/upside/atom.xml" rel="self"/>
-  <link href="http://fractalbanana.com/"/>
-  <updated>2015-08-05T09:32:13-07:00</updated>
-  <id>http://fractalbanana.com/</id>
+  <link href="http://fractalbanana.com//github/blog/categories/upside/atom.xml" rel="self"/>
+  <link href="http://fractalbanana.com//github/"/>
+  <updated>2015-08-05T09:38:54-07:00</updated>
+  <id>http://fractalbanana.com//github/</id>
   <author>
     <name><![CDATA[Brad Urani]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[LaunchCode at Upside Promo Video]]></title>
-    <link href="http://fractalbanana.com/blog/2015/03/14/launchcode-at-upside-promo-video/"/>
+    <link href="http://fractalbanana.com//github/blog/2015/03/14/launchcode-at-upside-promo-video/"/>
     <updated>2015-03-14T05:11:10-07:00</updated>
-    <id>http://fractalbanana.com/blog/2015/03/14/launchcode-at-upside-promo-video</id>
+    <id>http://fractalbanana.com//github/blog/2015/03/14/launchcode-at-upside-promo-video</id>
     <content type="html"><![CDATA[<p>Here&rsquo;s a short video about me and two of our <a href="http://upsideadvisor.com">Upside</a> team members who were placed through <a href="https://www.launchcode.org/">LaunchCode</a>, a non-profit that places aspiring developers in their first jobs. I&rsquo;m so proud of these 2 young men and what we&rsquo;ve accomplished together.</p>
 
 <div id="fb-root"></div>
@@ -35,9 +35,9 @@
   
   <entry>
     <title type="html"><![CDATA[Interview on the Upside Blog]]></title>
-    <link href="http://fractalbanana.com/blog/2014/03/26/interview-on-upside-blog/"/>
+    <link href="http://fractalbanana.com//github/blog/2014/03/26/interview-on-upside-blog/"/>
     <updated>2014-03-26T23:05:27-07:00</updated>
-    <id>http://fractalbanana.com/blog/2014/03/26/interview-on-upside-blog</id>
+    <id>http://fractalbanana.com//github/blog/2014/03/26/interview-on-upside-blog</id>
     <content type="html"><![CDATA[<p>The crew from <a href="http://gainupside.com">Upside</a> posted a short interview with me on the Upside blog.</p>
 
 <h3><a href="http://blog.gainupside.com/post/78654512941/meet-brad">Read the full post at gainupside.com >></a></h3>
